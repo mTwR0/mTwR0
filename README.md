@@ -3,9 +3,9 @@
 <br>
 <h3 align="center">A graduate of the Faculty of Economic Cybernetics within the Academy of Economic Studies in Romania</h3>
 <br><br>
-<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 
-All my work is primarily done in Python . I know a bit about HTML , CSS , SQL and R .
+All my work is primarily done in Python . 
+I know a bit about HTML , CSS , SQL and R .
 
 
 - 🔭 I’m currently working on **EVA , a virtual AI assistant for specific banking tasks**
@@ -16,6 +16,7 @@ All my work is primarily done in Python . I know a bit about HTML , CSS , SQL an
 
 - 📫 Reach me at **gherman.raduioan@gmail.com**
 
+<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 
 <p align="left">
 </p>
