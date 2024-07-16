@@ -27,7 +27,7 @@ I know a bit about HTML , CSS , SQL and R .
 <a href="https://www.r-studio.com" target="_blank" rel="noreferrer"> <img src="https://blogs.swarthmore.edu/its/wp-content/uploads/2017/06/R_logo-1.png" alt="rstudio" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtwr0&show_icons=true&locale=en&layout=compact" alt="mtwr0" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtwr0" alt="mtwr0" /></p>
 
 
 ## Check my repositories!
