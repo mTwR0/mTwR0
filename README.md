@@ -8,7 +8,7 @@ All my work is primarily done in Python .
 I know a bit about HTML , CSS , SQL and R .
 
 
-- 🔭 I’m currently working on **EVA , a virtual AI assistant for specific banking tasks**
+- 🔭 I’m currently working on **A speaker diarization project**
 
 - 🌱 I’m currently learning **about AI**
 
